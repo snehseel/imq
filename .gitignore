@@ -1,0 +1,17 @@
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+target/
+
+# Unit test reports
+TEST*.xml
+
+#ignoring virtual environment files
+IMQ_client/venv
+IMQ_server/venv
+
+IMQ_client/.pybuilder
+IMQ_server/.pybuilder
